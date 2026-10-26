@@ -179,5 +179,10 @@ test_*.py
 test_output/
 test_data/
 
+#agent
+.omc
+.vibe-wise/
 
-
+#MacOS
+.DS_Store
+._*
